@@ -1,0 +1,13 @@
+../pic/left1.jpg
+../pic/left2.jpg
+../pic/left3.jpg
+../pic/left4.jpg
+../pic/left5.jpg
+../pic/left6.jpg
+../pic/left7.jpg
+../pic/left8.jpg
+../pic/left9.jpg
+../pic/left10.jpg
+../pic/left11.jpg
+../pic/left12.jpg
+../pic/left13.jpg

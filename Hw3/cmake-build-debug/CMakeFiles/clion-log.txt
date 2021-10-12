@@ -1,0 +1,5 @@
+/home/skywoodsz/tools/clion-2021.2/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /home/skywoodsz/ComupterVision_Hw/Hw3
+-- Found OpenCV: /usr/local (found version "4.0.0") 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/skywoodsz/ComupterVision_Hw/Hw3/cmake-build-debug
