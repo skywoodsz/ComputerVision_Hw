@@ -4,8 +4,8 @@
 ## 配置
 执行文件 ./main.cpp 
 
-图片读取配置文件: ./load_img.txt 
-图片存储：./homework_images 
+图片读取配置文件: ./load_img.txt 	
+图片存储：./homework_images 	
 光源向量文件: ./homework_images/light_directions.txt
 
 *Notes:* 本工程假设光线方向已知, 深度恢复程序与Mesh显示程序参考 
