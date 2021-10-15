@@ -1,0 +1,3 @@
+/home/skywoodsz/ComupterVision_Hw/Hw4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/skywoodsz/ComupterVision_Hw/Hw4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/skywoodsz/ComupterVision_Hw/Hw4/cmake-build-debug/CMakeFiles/Hw4.dir
