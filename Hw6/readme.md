@@ -4,7 +4,7 @@
 - skin_detector.cpp 皮肤提取  
 
 ## 运行结果  
-"""
-    原图: ./pic
-    结果: ./result
-"""
+`
+`    原图: ./pic  
+`    结果: ./result
+`
