@@ -1,0 +1,3 @@
+/home/skywoodsz/ComupterVision_Hw/Hw6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/skywoodsz/ComupterVision_Hw/Hw6/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/skywoodsz/ComupterVision_Hw/Hw6/cmake-build-debug/CMakeFiles/Hw6.dir
